@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  main.cpp
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(19): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(24): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(59): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(28): warning C4101: 'newposition': unreferenced local variable
+  Basic-Physics-Engine.vcxproj -> D:\Desktop\Basic-Physics-Engine\Debug\Basic-Physics-Engine.exe
