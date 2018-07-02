@@ -1,8 +1,7 @@
 ﻿  main.cpp
-d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(27): warning C4244: 'initializing': conversion from 'unsigned int' to 'float', possible loss of data
-d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(72): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(76): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(39): warning C4101: 'newposition': unreferenced local variable
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(39): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(43): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(81): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(85): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+d:\desktop\basic-physics-engine\basic-physics-engine\main.cpp(85): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   Basic-Physics-Engine.vcxproj -> D:\Desktop\Basic-Physics-Engine\Debug\Basic-Physics-Engine.exe
