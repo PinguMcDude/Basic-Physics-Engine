@@ -1,3 +1,2 @@
 ﻿  main.cpp
-c:\users\matias chomali\desktop\basic-physics-engine\basic-physics-engine\main.cpp(55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
-  Basic-Physics-Engine.vcxproj -> C:\Users\Matias Chomali\Desktop\Basic-Physics-Engine\Debug\Basic-Physics-Engine.exe
+  Basic-Physics-Engine.vcxproj -> D:\Desktop\Basic-Physics-Engine\Debug\Basic-Physics-Engine.exe
