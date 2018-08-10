@@ -1,4 +1,4 @@
 ﻿  main.cpp
-c:\users\matias chomali\desktop\basic-physics-engine\basic-physics-engine\main.cpp(136): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
-c:\users\matias chomali\desktop\basic-physics-engine\basic-physics-engine\main.cpp(182): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\matias chomali\desktop\basic-physics-engine\basic-physics-engine\main.cpp(154): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+c:\users\matias chomali\desktop\basic-physics-engine\basic-physics-engine\main.cpp(216): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
   Basic-Physics-Engine.vcxproj -> C:\Users\Matias Chomali\Desktop\Basic-Physics-Engine\Debug\Basic-Physics-Engine.exe
